@@ -91,6 +91,7 @@ Name      Operation                   Syntax        Display
 **im**    Imagery Compoent of A       ``im(A)``     :math:`\Im\left(A\right)`
 **sqrt**  Square root of A            ``sqrt(A)``   :math:`\sqrt{A}`
 **log**   Logarithm of A              ``log(A)``    :math:`\log{A}`
+**exp**   Exponential of A            ``exp(A)``    :math:`\exp{A}`
 ========= =========================== ============= ============================
 
 Examples
